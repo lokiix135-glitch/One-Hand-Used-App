@@ -1,0 +1,16 @@
+<block type="component_event" ... instance_name="Button1" event_name="Click">
+  ...
+</block>
+That means:
+
+less
+Copy code
+When Button1.Click:
+    (do something here)
+
+
+pseudo-code –
+
+<mutation component_type="Button" instance_name="Button1" event_name="Click">
+→ When Button1.Click:
+Open another screen → "screen2"

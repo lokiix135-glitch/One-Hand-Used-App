@@ -1,0 +1,37 @@
+# Second-Hand Marketplace App (MIT App Inventor)
+
+## 📌 Project Overview
+This is a mobile application built using **MIT App Inventor**.  
+The app is designed as a **second-hand market platform** where users can browse categories like cars, cycles, phones, and home appliances.  
+
+It is implemented fully with MIT App Inventor’s **drag-and-drop blocks**, without traditional coding.  
+This repository contains documentation and logic flow of the app for reference.
+
+---
+
+## 📱 App Screens
+The app has the following screens:
+1. **Screen1** – Main menu with navigation buttons.  
+2. **CAR** – Shows details about second-hand cars.  
+3. **CYCLE** – Shows details about second-hand bicycles.  
+4. **PHONES** – Shows details about second-hand mobile phones.  
+5. **HOME_APPLIANCES** – Shows details about second-hand home appliances.  
+
+---
+
+## 🧩 Block Logic (Pseudo-code)
+
+### Screen2
+
+
+When Button_CAR.Click:
+Open another screen → "CAR"
+
+When Button_CYCLE.Click:
+Open another screen → "CYCLE"
+
+When Button_PHONES.Click:
+Open another screen → "PHONES"
+
+When Button_APPLIANCES.Click:
+Open another screen → "HOME_APPLIANCES"
